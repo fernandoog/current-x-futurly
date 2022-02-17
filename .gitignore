@@ -1,1 +1,4 @@
 .DS_Store
+/models/
+/checkpoint/
+/playcanvas-camera-scripts/
